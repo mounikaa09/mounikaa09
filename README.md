@@ -21,7 +21,7 @@
 
 ### 🔗 Let's Connect:
 - [GitHub](https://github.com/mounikaa09)
-- 📧 Email: mounika78609@example.com *(replace with your actual email)*
+- 📧 Email: mounika78609@example.com 
 
 <!--
 **mounikaa09/mounikaa09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
